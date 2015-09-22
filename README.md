@@ -1,12 +1,12 @@
-##[runtime.js](https://github.com/runtimejs/runtime) helloworld example application
+##[runtime.js](https://github.com/runtimejs/runtime) os example application
 
 ### Install
 
 Clone this repository and install dependencies:
 
 ```
-git clone https://github.com/runtimejs/helloworld.git
-cd helloworld
+git clone https://github.com/sasha240100/JsOs.git
+cd JsOs
 npm install
 ```
 
